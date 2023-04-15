@@ -23,6 +23,7 @@
 - C800Series
 - Cisco Catalyst 2960,3650,9200,9300 Series
 - Cisco Meraki MXシリーズ
+- Cisco Meraki MSシリーズ
 - Cisco Meraki MRシリーズ
 - DGS-1000シリーズ
 - Aruba RAP-500h シリーズ
@@ -34,10 +35,11 @@
 - 
 
 ## 最近取り組んだこと/取り組んでいること
+- 某大学キャンパスのネットワーク構築案件での詳細設計(Fortigate,Cisco Catalist9200,Meraki SW,Cisco AP)
 - 
 
 ## 技術的に興味があるもの
-- 
+- AWS
 
 ## 職務経歴(入社日付の降順)
 ### 2018/05 - : CLINKS株式会社
